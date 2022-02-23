@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PublicProjects.iml" filepath="$PROJECT_DIR$/.idea/PublicProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elevolt-ats-api/.idea/elevolt-ats-api.iml" filepath="$PROJECT_DIR$/elevolt-ats-api/.idea/elevolt-ats-api.iml" />
     </modules>
   </component>
 </project>
